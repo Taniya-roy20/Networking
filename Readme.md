@@ -92,7 +92,7 @@ Key Concepts of CNI: ---Plugins: CNI works through a series of network plugins t
 
 The movement of packets in the cloud involves several layers and processes, ensuring that data can travel efficiently from one point to another, whether it's within a single data center or across a global network. Here’s a breakdown of how packets move in a cloud environment:
 <br><br>
-1. Data Center Architecture:
+**1. Data Center Architecture:**
 <br>
 Physical Layer: At the base, there are physical servers and networking hardware (switches, routers).
 <br>
